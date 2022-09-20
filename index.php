@@ -96,16 +96,8 @@
 					<div class="wrap-input100 validate-input" data-validate="Password is required">
 						<input class="input100" type="password" placeholder="Password" name="password">
 					</div>
-					<br>
-					<div class="flex-sb-m w-full p-t-3 p-b-32">
-						<div class="contact100-form-checkbox">
-							<input class="input-checkbox100" id="ckb1" type="checkbox" name="remember-me">
-							<label class="label-checkbox100" for="ckb1">
-								Remember me
-							</label>
-						</div>						
-					</div>
-					<br>
+
+					<br><br>
 
 					<div class="container-login100-form-btn">
 						<button type="submit" class="login100-form-btn">
